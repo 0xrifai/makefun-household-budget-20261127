@@ -1,0 +1,8 @@
+# DompetKita — local build output and editor clutter.
+# The entry itself (app/, screenshots/, main.ts, vendor/, LICENSE, README)
+# is always committed; only throwaway local files are ignored here.
+out/
+/output/
+node_modules/
+.DS_Store
+*.log
